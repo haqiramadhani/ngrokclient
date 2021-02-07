@@ -1,0 +1,11 @@
+{
+  "name": "ngrokclient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Robot Digital <haqi@robotdigital.id>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "socket.io-client": "^3.1.1"
+  }
+}
